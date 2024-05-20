@@ -12,12 +12,19 @@ Filtro de Monedas;
 Exibición de Resultados a los usuarios;
 ¡Prepárate para sumergirte en una experiencia práctica y emocionante en el desarrollo Java!
 
-Vamos a trabajar con el sistema ágil de desarrollo, utilizando el Trello de la siguiente forma:
+El convertidor de moneda debe:
+      - Convertir de la moneda de tu país a Dólar
+      - Convertir de la moneda de tu país a Euros
+      - Convertir de la moneda de tu país a Libras Esterlinas
+      - Convertir de la moneda de tu país a Yen Japonés
+      - Convertir de la moneda de tu país a Won sul-coreano
 
-La columna Listos para iniciar presenta las tarjetas con elementos que aun no fueron desarrollados.
-En la columna En Desarrollo estarán los elementos que estés desarrollando en el momento. Al iniciar una tarea, podrás mover la tarjeta que contiene dicha tarea para esta columna.
-En la columna Pausado estarán los elementos que comenzaste a desarrollar, pero necesitaste parar por algún motivo.
-Por fin, en la columna Concluido estarán los elementos ya concluidos.
-El Trello es una herramienta de uso individual para que puedas controlar el progreso de tus actividades, pero no será evaluada.
+Recordando que también debe ser posible convertir inversamente, es decir:
+
+        - Convertir de Dólar a la moneda de tu país
+        - Convertir de Euros a la moneda de tu país
+        - Convertir de Libras Esterlinas a la moneda de tu país
+        - Convertir de Yen Japonés a la moneda de tu país
+        - Convertir de Won sul-coreano a la moneda de tu país
 
 Buen proyecto!
